@@ -1,1 +1,1 @@
-# nsg-flow-log-helper-script
+# NSG flow logs helper script
